@@ -1,0 +1,12 @@
+.img-acu {
+  float: left;
+  width: 250px;
+  height: 162px;
+  border-radius: 20px;
+  background:transparent url("./assets/avatar.jpg") center top no-repeat;
+  background-size: 100%;
+}
+
+.img-acu:hover {
+  background-image: url("./assets/secondAvatar.png");
+}
