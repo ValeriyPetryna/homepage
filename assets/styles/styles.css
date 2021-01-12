@@ -10,3 +10,7 @@
 .img-acu:hover {
   background-image: url("../images/avatar.png");
 }
+.opacity-footer {
+  opacity: 0.3;
+  margin-right: 0.0625em;
+}
