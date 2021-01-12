@@ -1,0 +1,19 @@
+.img-acu {
+  float: left;
+  width: 250px;
+  height: 162px;
+  border-radius: 20px;
+  background:transparent url("../images/avatar.jpg") center top no-repeat;
+  background-size: 100%;
+}
+
+.img-acu:hover {
+  background-image: url("../images/avatar.png");
+}
+.opacity-footer {
+  opacity: 0.3;
+  margin-right: 0.0625em;
+}
+.custom-color {
+  color:rgb(40, 7, 71);
+}
