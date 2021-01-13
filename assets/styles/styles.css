@@ -3,18 +3,22 @@
   width: 250px;
   height: 162px;
   border-radius: 20px;
-  background:transparent url("../images/avatar.jpg") center top no-repeat;
+  background: transparent url("../images/avatar.jpg") center top no-repeat;
   background-size: 100%;
 }
+
 .img-acur:hover {
   background-image: url("../images/avatar.png");
 }
+
 .quote-intro {
   margin-right: 0.0625em;
 }
+
 .custom-color {
-  color:rgb(40, 7, 71);
+  color: rgb(40, 7, 71);
 }
+
 @media only screen and (max-width: 768px) {
   .img-acur {
     width: 170px;
