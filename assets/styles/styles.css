@@ -6,12 +6,10 @@
   background:transparent url("../images/avatar.jpg") center top no-repeat;
   background-size: 100%;
 }
-
 .img-acu:hover {
   background-image: url("../images/avatar.png");
 }
-.opacity-footer {
-  opacity: 0.3;
+.quote-intro {
   margin-right: 0.0625em;
 }
 .custom-color {
