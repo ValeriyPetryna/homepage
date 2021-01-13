@@ -1,4 +1,4 @@
-.img-acu {
+.img-acur {
   float: left;
   width: 250px;
   height: 162px;
@@ -6,7 +6,7 @@
   background:transparent url("../images/avatar.jpg") center top no-repeat;
   background-size: 100%;
 }
-.img-acu:hover {
+.img-acur:hover {
   background-image: url("../images/avatar.png");
 }
 .quote-intro {
@@ -14,4 +14,9 @@
 }
 .custom-color {
   color:rgb(40, 7, 71);
+}
+@media only screen and (max-width: 768px) {
+  .img-acur {
+    width: 170px;
+  }
 }
